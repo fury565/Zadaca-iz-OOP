@@ -1,0 +1,9 @@
+C:\Users\Fury\source\repos\Zadaca1\Klase\bin\Debug\netstandard2.0\Klase.deps.json
+C:\Users\Fury\source\repos\Zadaca1\Klase\bin\Debug\netstandard2.0\Klase.dll
+C:\Users\Fury\source\repos\Zadaca1\Klase\bin\Debug\netstandard2.0\Klase.pdb
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.csprojAssemblyReference.cache
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.AssemblyInfoInputs.cache
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.AssemblyInfo.cs
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.csproj.CoreCompileInputs.cache
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.dll
+C:\Users\Fury\source\repos\Zadaca1\Klase\obj\Debug\netstandard2.0\Klase.pdb
