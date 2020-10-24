@@ -11,7 +11,7 @@ namespace Zadaca1
 			int viewers = 10;
 			for (int i = 0; i < viewers; i++)
 			{
-				ep1.AddView(ep1.GenerateRandomScore());
+				ep1.AddView(GenerateRandomScore());
 				Console.WriteLine(ep1.GetMaxScore());
 			}
 			if (ep1.GetAverageScore() > ep2.GetAverageScore())
@@ -22,6 +22,12 @@ namespace Zadaca1
 			{
 				Console.WriteLine($"Viewers: {ep2.GetViewerCount()}");
 			}
+		}
+		static double GenerateRandomScore()
+        {
+			Random rnd = new Random();
+			double score = rnd.NextDouble() * 10;
+			return Math.Round(score, 5);
 		}
     }
 }

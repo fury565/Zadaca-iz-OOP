@@ -13,12 +13,6 @@ public class Episode
         this.ratingsum = ratingsum;
         this.maxrating = maxrating;
     }
-    public double GenerateRandomScore()
-    {
-        Random rnd = new Random();
-        double score = rnd.NextDouble() * 10;
-        return Math.Round(score,5);
-    }
     public void AddView(double score)
     {
         viewercount++;
