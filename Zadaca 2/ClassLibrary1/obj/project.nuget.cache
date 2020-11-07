@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HSh+/sHjJYjtO9Iym1qrBWNLfxsVLkfmi7IzPq47g2n4wgxvHUp4ByYHNwr/d9tsOnAJXtRm7jK5pQMY90yIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fury\\source\\repos\\Zadaca 2\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fury\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fury\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
