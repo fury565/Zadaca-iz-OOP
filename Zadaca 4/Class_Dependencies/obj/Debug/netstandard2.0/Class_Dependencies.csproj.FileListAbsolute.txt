@@ -1,0 +1,9 @@
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\bin\Debug\netstandard2.0\Class_Dependencies.deps.json
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\bin\Debug\netstandard2.0\Class_Dependencies.dll
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\bin\Debug\netstandard2.0\Class_Dependencies.pdb
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.csprojAssemblyReference.cache
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.AssemblyInfoInputs.cache
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.AssemblyInfo.cs
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.dll
+C:\Users\Fury\source\repos\Zadaca 3\Class_Dependencies\obj\Debug\netstandard2.0\Class_Dependencies.pdb

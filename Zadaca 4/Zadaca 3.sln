@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main_Program", "Zadaca 3\Main_Program.csproj", "{906D2508-2904-47F5-85D5-C3236DD15952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Dependencies", "Class_Dependencies\Class_Dependencies.csproj", "{F9B06D5D-7B07-469B-BB0F-B354168E0E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906D2508-2904-47F5-85D5-C3236DD15952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906D2508-2904-47F5-85D5-C3236DD15952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906D2508-2904-47F5-85D5-C3236DD15952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906D2508-2904-47F5-85D5-C3236DD15952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B06D5D-7B07-469B-BB0F-B354168E0E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B06D5D-7B07-469B-BB0F-B354168E0E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B06D5D-7B07-469B-BB0F-B354168E0E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B06D5D-7B07-469B-BB0F-B354168E0E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB883F7-2E61-4F22-9C19-B6D252A2A286}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.exe
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.deps.json
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.runtimeconfig.json
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.runtimeconfig.dev.json
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.dll
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Main_Program.pdb
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Class_Dependencies.dll
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\bin\Debug\netcoreapp3.1\Class_Dependencies.pdb
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.csprojAssemblyReference.cache
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.AssemblyInfoInputs.cache
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.AssemblyInfo.cs
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.csproj.CoreCompileInputs.cache
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.csproj.CopyComplete
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.dll
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.pdb
+C:\Users\Fury\source\repos\Zadaca 3\Zadaca 3\obj\Debug\netcoreapp3.1\Main_Program.genruntimeconfig.cache
